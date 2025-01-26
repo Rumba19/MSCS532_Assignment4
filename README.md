@@ -2,7 +2,7 @@
 
 
 ## **Overview**
-This project is part of the MSCS532 course assignment to analyze and compare the efficiency and scalability of two algorithms:
+This project is to implement,  analyze and compare the efficiency and scalability of Heap data structures and priority queue:
 1. **Heapsort Algorithm**: A sorting algorithm based on a binary heap data structure.
 2. **Priority Queue Implementation**: A data structure that allows for efficient management of tasks based on priority.
 
@@ -28,7 +28,7 @@ Supports operations to manage tasks with different priorities.
    ```bash
    pip3 install numpy
 
-## **How to Run*
+## **How to Run**
   ```bash
 git clone https://github.com/Rumba19/MSCS532_Assignment4
 cd MSCS532_ASSIGNMENT4
